@@ -1,6 +1,6 @@
 {
     "url_name": "los_angeles",
-    "name": "Cityyyyy of Los Angeles",
+    "name": "City of Los Angeles",
 
     "tileSource": "http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png",
     "center": [
