@@ -2,6 +2,8 @@
     "url_name": "los_angeles",
     "name": "City of Los Angeles",
 
+    "tileSource": "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png",
+
     "backgroundTileSource": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_nolabels/{z}/{x}/{y}.png",
     "labelTileSource": "https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_only_labels/{z}/{x}/{y}.png",
     "center": [
